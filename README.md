@@ -17,4 +17,4 @@
 | Portuguese (Brazil)  | Eduarda  | Female | 1.0.0  |
 | Spanish (Modern) | Claudia  | Female | 1.0.0  |
 | Spanish (Modern) | Raulo  | Male | 1.0.0  |
-| Spanish (Mexico) | Name  | Female | 1.0.0  |
+| Spanish (Mexico) | Lucia  | Female | 1.0.0  |
