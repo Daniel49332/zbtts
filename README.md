@@ -5,7 +5,7 @@
 | Chinese (PRC)  | Jian  | Male | 1.0.0  |
 | Chinese (PRC)  | Liling  | Female | 1.0.0  |
 | Chinese (PRC)  | MingYue  | Female | 1.0.0  |
-| English (UK)  | Name  | Female | 1.0.0  |
+| English (UK)  | Jade  | Female | 1.0.0  |
 | English (US)  | Manuel  | Male | 1.0.0  |
 | English (US)  | Sherrie  | Female | 1.0.0  |
 | English (US)  | Yvette  | Female | 1.0.0  |
