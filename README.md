@@ -44,11 +44,8 @@
 | Serbian, Cyrillic  | Name  | Name |
 | Serbian, Latin  | Name  | Name |
 | Slovak  | Name  | Name |
-| Spanish, Argentina  | Name  | Name |
 | Spanish, Castilian  | Name  | Name |
-| Spanish, Chile  | Name  | Name |
-| Spanish, Colombia  | Name  | Name |
-| Spanish, Mexico  | Name  | Name |
+| Spanish, Latin  | Name  | Name |
 | Spanish, USA  | Name  | Name |
 | Swedish  | Name  | Name |
 | Tagalog  | Name  | Name |
