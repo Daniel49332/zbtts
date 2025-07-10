@@ -32,6 +32,7 @@
 | Italian  | Name  | Name |
 | Japanese  | Name  | Name |
 | Korean  | Name  | Name |
+| Latvian  | Name  | Name |
 | Mandarin (PRC)  | Name  | Name |
 | Mandarin (Taiwan)  | Name  | Name |
 | Norwegian, Bokmål  | Name  | Name |
