@@ -5,10 +5,8 @@
 | Arabic  | Name  | Name |
 | Basque  | Name  | Name |
 | Bulgarian  | Name  | Name |
-| Catalan  | Name  | Name |
-| Mandarin, PRC  | Name  | Name |
 | Cantonese  | Name  | Name |
-| Mandarin, Taiwan  | Name  | Name |
+| Catalan  | Name  | Name |
 | Czech  | Name  | Name |
 | Danish  | Name  | Name |
 | Dutch, Hollandic  | Name  | Name |
@@ -34,6 +32,8 @@
 | Italian  | Name  | Name |
 | Japanese  | Name  | Name |
 | Korean  | Name  | Name |
+| Mandarin, PRC  | Name  | Name |
+| Mandarin, Taiwan  | Name  | Name |
 | Norwegian, Bokmål  | Name  | Name |
 | Norwegian, Nynorsk  | Name  | Name |
 | Polish  | Name  | Name |
