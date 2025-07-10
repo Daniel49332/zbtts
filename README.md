@@ -1,20 +1,23 @@
 # PROTO-TYPE!
-| Language  | Name | Gender | Version |
-| ------------- | ------------- | ------------- | ------------- |
-| Arabic  | Mohamed  | Male | 1.0.0  |
-| Chinese (PRC)  | Jian  | Male | 1.0.0  |
-| Chinese (PRC)  | Liling  | Female | 1.0.0  |
-| Chinese (Taiwan)  | MingYue  | Female | 1.0.0  |
-| English (UK)  | Jade  | Female | 1.0.0  |
-| English (US)  | Manuel  | Male | 1.0.0  |
-| English (US)  | Sherrie  | Female | 1.0.0  |
-| English (US)  | Yvette  | Female | 1.0.0  |
-| French  | Sabira  | Female | 1.0.0  |
-| German  | Anke  | Female | 1.0.0  |
-| German  | Finnik  | Male | 1.0.0  |
-| Italian  | Sigmona  | Female | 1.0.0  |
-| Japanese  | Miho  | Female | 1.0.0  |
-| Portuguese (Brazil)  | Eduarda  | Female | 1.0.0  |
-| Spanish (Modern) | Claudia  | Female | 1.0.0  |
-| Spanish (Modern) | Raulo  | Male | 1.0.0  |
-| Spanish (Mexico) | Lucia  | Female | 1.0.0  |
+| Language      | Female voice  | Male voice    |
+| ------------- | ------------- | ------------- |
+| Arabic  | Not applicable  | Tariq, Mohamed |
+| Basque  | Name  | Not applicable |
+| Bulgarian  | Name  | Not applicable |
+| Catalan  | Martina  | Oriol |
+| Mandarin (PRC)  | Yuehua, Liling  | Not applicable |
+| Cantonese  | KaiMing  | Not applicable |
+| Mandarin (Taiwan)  | MingYue  | Not applicable |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
+| Language  | Name  | Name |
