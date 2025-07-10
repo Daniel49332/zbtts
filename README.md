@@ -45,7 +45,7 @@
 | Serbian, Latin  | Name  | Name |
 | Slovak  | Name  | Name |
 | Spanish, Castilian  | Name  | Name |
-| Spanish, Latin  | Name  | Name |
+| Spanish, Latin America  | Name  | Name |
 | Spanish, USA  | Name  | Name |
 | Swedish  | Name  | Name |
 | Tagalog  | Name  | Name |
