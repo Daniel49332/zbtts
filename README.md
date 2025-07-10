@@ -56,36 +56,3 @@
 | Valencian  | Name  | Name |
 | Vietnamese  | Name  | Name |
 | Welsh  | Name  | Name |
-
-# Examples!
-| Language      | Female voice  | Male voice    |
-| ------------- | ------------- | ------------- |
-| Arabic  | Faten  | Tariq |
-| Cantonese  | Ying  | Hao |
-| Czech  | Gabrielka  | Not applicable |
-| Danish  | Jill  | Vincent |
-| Dutch (Hollandic)  | Hanneke  | Kees |
-| English (Australia)  | Kathy  | Chase |
-| English (UK)  | Bethany  | Tyler |
-| English (India)  | Siya  | Krish |
-| English (USA)  | Yvette  | Freddie |
-| Finnish  | Tarja  | Not applicable |
-| French (Canada)  | Morgane  | Henri |
-| French (France)  | Sabira  | Stephane |
-| German  | Anke  | Finnik |
-| Greek  | Mata  | Spyridon |
-| Hindi  | Bhavani  | Ram |
-| Hungarian  | Katalin  | Sandor |
-| Indonesian  | Indah  | Budi |
-| Italian  | Viola  | Emiliano |
-| Japanese  | Miho  | Eichi |
-| Mandarin (Taiwan)  | MingYue  | ZiJie |
-| Norwegian, Bokmål  | Malena  | Henning |
-| Polish  | Katarzyna  | Michal |
-| Portuguese (Brazil)  | Lilian  | Not applicable |
-| Portuguese (Portugal)  | Sofia  | Donaldo |
-| Slovak  | Natalia  | Name |
-| Swedish  | Wilma  | Nils |
-| Tagalog  | Dalisay  | Pagasa |
-| Turkish  | Leyla  | Cenk |
-| Ukrainian  | Mariya  | Not applicable |
