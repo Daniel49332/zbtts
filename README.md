@@ -1,4 +1,4 @@
-ZiorBox TTS is a up-and-coming voicepack designed for eSpeak on Windows devices using SAPI 5.
+ZiorBox TTS is a up-and-coming voicepack designed for eSpeak on Windows devices using SAPI 5. Go support the creators of eSpeak!
 # Get your voices here!
 | Language      | Female voice  | Male voice    |
 | ------------- | ------------- | ------------- |
