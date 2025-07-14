@@ -12,3 +12,4 @@ ZiorBox TTS is a up-and-coming voicepack designed for eSpeak on Windows devices 
 | [Korean](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-kok.zip)  | Not applicable | Hwan |
 | [Russian](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-rur.zip)  | Polina | Lev |
 | [Spanish (Castilian)](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-spe.zip)  | Martina | Raulo |
+| [Swedish](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-sws.zip)  | Not applicable | Walter |
