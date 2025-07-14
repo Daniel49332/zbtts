@@ -4,8 +4,8 @@ ZiorBox TTS is a up-and-coming voicepack designed for eSpeak on Windows devices 
 | Language      | Female voice  | Male voice    |
 | ------------- | ------------- | ------------- |
 | [Dutch (Hollandic)](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-dun.zip)  | Mieke | Kees |
-| [English (US)](https://github.com/Daniel49332/zbtts/releases/download/beta-us/zbtts-enu.zip) | Nicole, Margaret, OldWoman | Nathan, Rick, Gramps, Timmy |
 | [English (UK)](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-eng.zip)  | Hailey | Horace |
+| [English (US)](https://github.com/Daniel49332/zbtts/releases/download/beta-us/zbtts-enu.zip) | Nicole, Margaret, OldWoman | Nathan, Rick, Gramps, Timmy |
 | [French (France)](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-frf.zip)  | Pauline | Thierry |
 | [German](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-ged.zip)  | Ida | Otto |
 | [Italian](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-iti.zip)  | Lucia | Giovanni |
