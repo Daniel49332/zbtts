@@ -1,5 +1,6 @@
 ZiorBox TTS is a up-and-coming voicepack designed for eSpeak on Windows devices using SAPI 5. Go support the creators of eSpeak!
 # Get your voices here!
+## Compact voices
 | Language      | Female voice  | Male voice    |
 | ------------- | ------------- | ------------- |
 | [Dutch (Hollandic)](https://github.com/Daniel49332/zbtts/releases/download/beta/zbtts-dun.zip)  | Mieke | Kees |
